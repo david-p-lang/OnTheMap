@@ -1,5 +1,5 @@
 # OnTheMap
 
-![Login] (images/Screen Shot1.png)
-![Map] (images/Screen Shot2.png)
-![Annotations] (images/Screen Shot3.png)
+![Login] (https://github.com/david-p-lang/OnTheMap/blob/master/images/Screen%20Shot1.png)
+![Map] (https://github.com/david-p-lang/OnTheMap/blob/master/images/Screen%20Shot2.png)
+![Annotations] (https://github.com/david-p-lang/OnTheMap/blob/master/images/Screen%20Shot3.png)
