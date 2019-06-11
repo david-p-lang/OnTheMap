@@ -45,15 +45,9 @@ class LoginViewController: UIViewController {
                 if let key = self.delegate.currentUserSession?.account.key {
                     print("key", key)
                 NetworkUtil.getName(key: key, completion: { (user, error) in
-                    guard let error = error else {
-                        print(user)
-
-                        return
-                    }
+                    guard let error = error else { return }
                     self.displayAlertMainQueue(error)
-                    print(user)
                 })
-                } else {
                 }
                 return
             }
