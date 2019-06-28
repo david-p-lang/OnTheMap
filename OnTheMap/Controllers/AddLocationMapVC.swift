@@ -79,5 +79,7 @@ class AddLocationMapVC: UIViewController {
         self.mapView.setRegion(MKCoordinateRegion(center: coordinate, span: coordinateSpan), animated: true)
         self.mapView.addAnnotation(annotation)
     }
+    
+    
 
 }

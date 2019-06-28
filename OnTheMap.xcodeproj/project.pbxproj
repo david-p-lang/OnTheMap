@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B5FEEA922C6A98C00E26A63 /* TextFieldDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B5FEEA822C6A98C00E26A63 /* TextFieldDelegate.swift */; };
 		1BA75A8622A03D1C009D4B41 /* NetworkUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BA75A8522A03D1C009D4B41 /* NetworkUtil.swift */; };
 		1BA75A8A22A95065009D4B41 /* UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BA75A8922A95065009D4B41 /* UIViewController.swift */; };
 		1BA75A8C22AA9048009D4B41 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BA75A8B22AA9048009D4B41 /* Constants.swift */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1B5FEEA822C6A98C00E26A63 /* TextFieldDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldDelegate.swift; sourceTree = "<group>"; };
 		1BA75A8522A03D1C009D4B41 /* NetworkUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkUtil.swift; sourceTree = "<group>"; };
 		1BA75A8922A95065009D4B41 /* UIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewController.swift; sourceTree = "<group>"; };
 		1BA75A8B22AA9048009D4B41 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 			isa = PBXGroup;
 			children = (
 				6350E4E32299B5F600F82AFE /* AppDelegate.swift */,
+				1B5FEEA822C6A98C00E26A63 /* TextFieldDelegate.swift */,
 				1BA75A9022AA99C3009D4B41 /* Utilities */,
 				1BA75A8F22AA995B009D4B41 /* Controllers */,
 				1BA75A8E22AA994E009D4B41 /* Models */,
@@ -194,6 +197,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1B5FEEA922C6A98C00E26A63 /* TextFieldDelegate.swift in Sources */,
 				63BD8F3A229E079200A0D889 /* LocationsTableVC.swift in Sources */,
 				1BA75A8C22AA9048009D4B41 /* Constants.swift in Sources */,
 				63C9D874229F368A0099DF0E /* Parse.swift in Sources */,
